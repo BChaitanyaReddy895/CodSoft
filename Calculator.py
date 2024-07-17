@@ -1,4 +1,3 @@
-
 print("For operations '+','-','*','/' and '%' enter your choice as 1\n ")
 print("For operations '**','^' enter your choice as 2\n")
 print("Note:'%' is for finding remainder when second operand divides the first operand\n")
