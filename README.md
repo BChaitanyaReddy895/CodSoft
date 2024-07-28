@@ -1,1 +1,1 @@
-# CodSoft-Python-Internship
+# CodSoft Python Internship
