@@ -1,9 +1,10 @@
+# providing clear instructions for successful usage of calculator
 print("For operations '+','-','*','/' and '%' enter your choice as 1\n ")
 print("For operations '**','^' enter your choice as 2\n")
 print("Note:'%' is for finding remainder when second operand divides the first operand\n")
 print("Note:'**' for finding square of a required number\n")
 print("Note:'^' for finding nth power of a required number\n")
-n=int(input("Enter your choice:"))
+n=int(input("Enter your choice:")) # accepting user choice
 if(n==1):
     a=int(input("Enter first operand:"))
     b=int(input("Enter second operand:"))
